@@ -10,7 +10,7 @@ const graph = {
 const depthFirstPrint = (graph, start) => {
     const stack = [ start ];
 
-    while (stack.length > 0) {
+    while (stack.length) {
         const current = stack.pop();
         console.log(current);
 
