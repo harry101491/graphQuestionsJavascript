@@ -10,4 +10,6 @@
   6. Largest Component in Graph
 
 - Binary Tree
+  1. Depth First Tree Traversal
+  2. Breadth First Tree Traversal
 - Dynamic Programming
