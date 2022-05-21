@@ -14,6 +14,7 @@
   1. Depth First Tree Traversal
   2. Breadth First Tree Traversal
   3. Find tree node if present
-  4. Tree sum Iterative and Recursive
+  4. Tree sum Iterative and Recursive'
+  5. Unival Tree
 
 - Dynamic Programming
