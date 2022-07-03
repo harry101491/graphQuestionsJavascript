@@ -19,3 +19,4 @@
 
 - Dynamic Programming
   1. fibonacci series with memo and without memo
+  2. grid traveller problem

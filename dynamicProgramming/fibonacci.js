@@ -1,4 +1,6 @@
 // with memoization
+// O(n) time complexity
+// O(n) space complexity
 const fibWithMemo = (n, memo = {}) => {
   if (n <= 2) return 1;
   if (n in memo) return memo[n];
@@ -7,6 +9,8 @@ const fibWithMemo = (n, memo = {}) => {
 };
 
 // without memoization
+// O(2 ** n) time complexity
+// O(n) space complexity
 const fibNoMemo = (n) => {
   if (n <= 2) return n;
   return fibNoMemo(n - 1) + fibNoMemo(n - 2);
